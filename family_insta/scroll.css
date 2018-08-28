@@ -1,0 +1,30 @@
+
+header {
+    background: url("img/frame_top2.jpeg");
+    background-size: 100%;
+    width: 700px;
+    height: 90px;
+    margin: 0 200px 0 320px;
+}
+section {
+    width: 700px;
+    height: 600px;
+    margin: 0 200px 0 320px;
+    overflow: scroll;
+}
+a {
+    
+}
+img {
+    width: 700px;
+    height: 600px;
+    display: block;
+    float: right;
+}
+footer {
+    background: url("img/frame_bottom2.jpeg");
+    background-size: 100%;
+    width: 700px;
+    height: 90px;
+    margin: 0 200px 0 320px;
+}

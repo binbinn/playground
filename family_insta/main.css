@@ -1,0 +1,51 @@
+body {
+    background: url("img/insta_bg.jpg");
+    background-size: 100%;
+}
+header {
+    background: url("img/frame_top3.jpeg");
+    width: 1000px;
+    height: 200px;
+    margin: 50px 200px 0 187px;
+    font-family: 'Open Sans', sans-serif;
+}
+.name {
+    font-weight: 300;
+    font-size: 18px;
+    padding-top: 94px;
+    padding-left: 375px;
+}
+section {
+    background: url("img/frame_contents3.jpeg");
+    width: 1000px;
+    height: 480px;
+    margin: 0 200px 0 187px;
+    padding-top: 10px;
+    overflow: scroll;
+}
+img {
+    height: 185px;
+    width: 185px;
+    margin: 7px;
+}
+.first {
+
+}
+.second {
+
+}
+.third {
+
+}
+.left {
+    margin-left: 210px;
+}
+.middle {
+
+}
+.right {
+
+}
+footer {
+
+}
